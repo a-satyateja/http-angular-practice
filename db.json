@@ -1,0 +1,19 @@
+{
+  {
+    "id": 1,
+    "name": "typicode1",
+    "age": 23
+  },
+  
+  {
+    "id": 2,
+    "name": "typicode2",
+    "age": 24
+  },
+  
+  {
+    "id": 3,
+    "name": "typicode3",
+    "age": 25
+  }
+}
