@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "name": "typicode1",
@@ -16,4 +16,4 @@
     "name": "typicode3",
     "age": 25
   }
-}
+]
